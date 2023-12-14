@@ -1,0 +1,35 @@
+html{
+    background-color: rgb(250, 148, 148);
+}
+
+.page-heading{
+    margin: 0 auto;
+    background-color: white;
+    max-width: 400px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.secondary-heading{
+    margin: 0 auto;
+    background-color: white;
+    max-width: 150px;
+    text-align: center;
+    font-size: 23px;
+}
+
+.text{
+    text-align: center;
+    font-size: 18px;
+}
+
+.recipe-image{
+    height: 500px;
+    width: auto;
+}
+
+.recipe-link{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
